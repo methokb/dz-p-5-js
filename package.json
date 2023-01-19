@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "json-server": "^0.17.1"
+  },
+  "name": "dz-p-5-js",
+  "version": "1.0.0",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server --watch db.json"
+  },
+  "author": "metho",
+  "license": "ISC",
+  "description": ""
+}
